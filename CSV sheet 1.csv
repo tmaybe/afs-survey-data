@@ -486,13 +486,10 @@ NON VOTING,SMQ201_BASE,13d,(Pemilihan Bupati/Walikota tahun ……) Sebutkan alasan 
 NON VOTING,SMQ202_BASE,14d,(Pemilihan Bupati/Walikota tahun ……) Mengapa B/I/S malas mengikuti pemilihan tersebut,Base : Responden yang tidak mengikuti pemilihan Gubernur/Walikota  terakhir karena alasan MALAS (n : xx)
 NON VOTING,SSQ203_BASE,24,"Apakah B/I/S tahu mengenai jumlah partai politik yang berhak mengikuti Pemilihan DPR pada tahun 2014 mendatang, atau tidak?",Base : Responden yangpernah mendengar adanya Pemilihan DPR (n : xx)
 NON VOTING,SSQ204_BASE,25,"Berdasarkan pengetahuan B/I/S, berapakah jumlah partai politik yang berhak mengikuti Pemilihan DPR pada tahun 2014 mendatang?",Base : Responden yang paham tentang jumlah partai politik yang berhak mengikuti Pemilihan DPR (n : xx)
-,SSQ205_BASE,36,"Terdapat cara yang berbeda – beda yang bisa digunakan dalam memberikan informasi mengenai calon kepada masyarakat, salah satunya dalam bentuk seperti ini. Kami memiliki contoh penyampaian informasi mengenai calon pada pemilihan Gubernur Jakarta. 
-
 Seberapa suka B/I/S terhadap CARA PENYAMPAIAN INFORMASI TENTANG CALON DALAM  BENTUK SEPERTI INI?",Base : Semua responden (n : xx)
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ206_BASE,39,Apakah B/I/S pernah mendengar istilah DAFTAR PEMILIH SEMENTARA (DPS)?,Base : Semua responden (n : xx)
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ207_BASE,44,"Misalnya B/I/S mengetahui bahwa nama B/I/S tidak terdaftar dalam Daftar Pemilih untuk Pemilu 2014, seberapa besar keinginan B/I/S untuk menanyakan hal tersebut?",Base : Semua responden (n : xx)
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ208_BASE,45,Mengapa B/I/S tidak punya keinginan untuk menanyakan hal tersebut?,Base : Responden yang tidak punya keinginan untuk menanyakan ketiadaan namanya pada Daftar Pemilih (n : xx)
-"PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ209_BASE,46,"Misalkan pada saat itu B/I/S sedang tidak …….. (interviewer : bacakan alasan responden pada Q45), seberapa besar keinginan B/I/S untuk menanyakan ketiadaan nama B/I/S pada Daftar Pemilih untuk Pemilu 2014?",
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ210_BASE,47,Bagaimanakah perasaan B/I/S jika nama B/I/S tidak terdaftar pada Pemilu 2014?,Base : Semua responden (n : xx)
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ211_BASE,48,Mengapa B/I/S merasa heran atau marah atau kecewa jika nama B/I/S tidak terdaftar pada Pemilu 2014?,Base : Responden yang merasa heran atau marah atau kecewa jika namanya tidak terdaftar pada Pemilu 2014 (n : xx)
 "PEMAHAMAN, PERSEPSI DAN PRAKTIK TERKAIT DAFTAR PEMILIH",SSQ212_BASE,49,"Misalnya B/I/S berada dalam kondisi dimana nama B/I/S tidak terdaftar dalam DAFTAR PEMILIH TETAP (DPT), menurut B/I/S, apakah B/I/S tetap berhak untuk mengikuti pemilihan, atau tidak?",Base : Semua responden (n : xx)
@@ -510,6 +507,4 @@ PEMAHAMAN TERHADAP CARA MENANDAI SURAT SUARA,SSQ220_BASE,78,"Menurut pemahaman B
 PARTISIPASI AKTIF PEMILIH DALAM PEMANTAUAN PEMILU,SSQ224_BASE,84a,(Secara sukarela) Seberapa besar tingkat ketertarikan B/I/S untuk ikut memantau dalam Pemilu/Pemilukada. Jika …..?,Base : Semua responden (n : xx)
 PARTISIPASI AKTIF PEMILIH DALAM PEMANTAUAN PEMILU,SSQ225_BASE,84b,(Dengan mendapatkan kompensasi/pembayaran) Seberapa besar tingkat ketertarikan B/I/S untuk ikut memantau dalam Pemilu/Pemilukada. Jika …..?,Base : Semua responden (n : xx)
 TES MATERI PEMILU,SSQ226_BASE,85,Seberapa penting bagi B/I/S mengetahui informasi tentang kampanye?,Base : Semua responden (n : xx)
-TES MATERI PEMILU,SSQ227_BASE,86,"Jika B/I/S mendapatkan informasi mengenai kampanye dalam BENTUK/CARA seperti pada materi diatas, seberapa besar kemungkinan B/I/S akan membacanya?",Base : Semua responden (n : xx)
-TES MATERI PEMILU,SSQ228_BASE,87,Apakah B/I/S pernah melihat poster ini?,Base : Semua responden (n : xx)
 KEBUTUHAN INFORMASI,SSQ229_BASE,88,Informasi apakah yang PALING B/I/S butuhkan mengenai Pemilu tahun 2014?,Base : Semua responden (n : xx)
